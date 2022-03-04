@@ -3,7 +3,9 @@ import time
 
 def ddos():
     print("By apostol")
-
+    
+    
+    subprocess.call("apt install apache2-utils", shell=True)
 
     time.sleep(2)
 
