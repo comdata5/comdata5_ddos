@@ -1,2 +1,2 @@
+subprocess.run
 requests
-pyTelegramBotAPI
