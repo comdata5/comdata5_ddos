@@ -2,7 +2,7 @@ import subprocess
 import time
 
 def ddos():
-    print("By apostol")
+    print("Method was been created zxclxner")
     
     
     subprocess.call("apt install apache2-utils", shell=True)
